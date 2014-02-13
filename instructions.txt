@@ -1,12 +1,14 @@
 Step 1: Download Python 3.3 (32-bit version)
 http://www.python.org/download/
 
- - easiest way is to DL Python 3.3.4 Windows x86 MSI Installer.  When you install it, put it somewhere easy to find in your C: Drive.
+ - easiest way is to DL Python 3.3.4 Windows x86 MSI Installer.  When you install it, put it somewhere easy to find in your 
+ C: Drive.
  
 Step 2: Download Pygame 1.9
 http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame 
 
- - easiest way to install is to select the pygame-1.9.2a0.win32-py3.3.exe and install from there.  When it asks you where to put it, make sure it's the same folder as your Python installation.
+ - easiest way to install is to select the pygame-1.9.2a0.win32-py3.3.exe and install from there.  When it asks you where 
+ to put it, make sure it's the same folder as your Python installation.
  
 Step 3 (or maybe should be Step 1...): Download GitHub For Windows
 http://windows.github.com/
@@ -15,10 +17,13 @@ http://windows.github.com/
 
 Step 4: Set up your GitHub
 
- - Set up the GutHub application with the info for your GitHub account.  After that, drag the project from your browser into the GutHub application, and it should pull it onto your computer.
+ - Set up the GutHub application with the info for your GitHub account.  After that, drag the project from your browser 
+ into the GutHub application, and it should pull it onto your computer.
 
 Step 5 (*optional): Set up a Python IDE
 
- - You can use IDLE or Notepad++ for Python development (I wouldn't recommend Notepad++, IDLE is alright).  If you want a more powerful IDE(Integrated Development Environment), I'd recommend looking at PyCharm Community Edition for Windows.  Seems like it's pretty powerful, and relatively easy to use.  
+ - You can use IDLE or Notepad++ for Python development (I wouldn't recommend Notepad++, IDLE is alright).  If you want 
+ a more powerful IDE(Integrated Development Environment), I'd recommend looking at PyCharm Community Edition for Windows.  
+ Seems like it's pretty powerful, and relatively easy to use.  
  
  
